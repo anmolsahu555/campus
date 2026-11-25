@@ -1,0 +1,6 @@
+{
+  "name": "Campus Connect - College Event Organiser",
+  "description": "A comprehensive college event management platform with Student and Organizer roles, event registration, ticketing, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
